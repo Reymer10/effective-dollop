@@ -71,16 +71,11 @@
 
 🔭 I’m currently working on [My Portlio](https://github.com/donPabloNow/MeanOs)
 
-👨‍💻 All of my projects are available at [https://github.com/donPabloNow](https://github.com/donPabloNow)
-
-📝 I regularly write articles on [https://www.medium.com/bryandejesusrt](https://www.medium.com/bryandejesusrt)
-
 💬 Ask me about **anything**
 
 📫 How to reach me **@bryandejesusrt**
 
-📄 Know about my experiences [https://www.linkedin.com/in/bryandejesusrt](https://www.linkedin.com/in/bryandejesusrt)
-
+📄 Know about my experiences [https://www.linkedin.com/mynetwork/).
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{bryandejesusrt}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
