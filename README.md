@@ -33,12 +33,12 @@
     <summary><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/><i><b>Git Activeness</b></i></summary>
 
 <i style="font-size=12px;">"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</i>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryandejesusrt&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reymer10&theme=dracula)
 ##### Github stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryandejesusrt&theme=dracula) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bryandejesusrt&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reymer10&theme=dracula)
 ##### Longest vs Current Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=bryandejesusrt&theme=dracula)
+![](https://github-readme-streak-stats.herokuapp.com/?user=reymer10&theme=dracula)
 <br><br>
 
 </details>
@@ -46,12 +46,12 @@
     <summary> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/><i><b>Git Activeness</b></i></summary>
 
 <i style="font-size=12px;">"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</i>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryandejesusrt&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reymer10&theme=dracula)
 ##### Github stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryandejesusrt&theme=dracula) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bryandejesusrt&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reymer10&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reymer10&theme=dracula)
 ##### Longest vs Current Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=bryandejesusrt&theme=dracula)
+![](https://github-readme-streak-stats.herokuapp.com/?user=reymer10&theme=dracula)
 <br><br>
 
 </details>
@@ -61,8 +61,7 @@
 
 
 ⚡ Fun fact **I'm a fun guy and I love listening to music**  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312ia4lew2lh7kndjroaaizs6zia&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=088604&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=312ia4lew2lh7kndjroaaizs6zia&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ewmp49uc29fvyu56i1hsz8v&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ## contactame
 🌱 I am currently learning the MERN Testing Stack.
 
